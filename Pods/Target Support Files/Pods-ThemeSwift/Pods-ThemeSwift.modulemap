@@ -1,0 +1,6 @@
+framework module Pods_ThemeSwift {
+  umbrella header "Pods-ThemeSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
